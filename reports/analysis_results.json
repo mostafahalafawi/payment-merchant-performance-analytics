@@ -1,0 +1,109 @@
+{
+  "gmv_fy25": 955353897,
+  "gmv_fy26": 1236438997,
+  "revenue_fy25": 17043218,
+  "revenue_fy26": 21878286,
+  "gp_fy25": 4206452,
+  "gp_fy26": 5362303,
+  "gmv_growth_pct": 29.4,
+  "revenue_growth_pct": 28.4,
+  "gp_growth_pct": 27.5,
+  "gp_margin_fy26_pct": 24.5,
+  "take_rate_fy26_pct": 1.769,
+  "success_rate_fy25_pct": 91.41,
+  "success_rate_fy26_pct": 90.77,
+  "failed_attempt_cost_fy26": 70818,
+  "gmv_yoy_first_month_pct": 37.7,
+  "gmv_yoy_last_month_pct": 19.3,
+  "active_merchants_first_month": 454,
+  "active_merchants_last_month": 798,
+  "health_status_counts": {
+    "Stable": 687,
+    "Live - never transacted": 150,
+    "Onboarding (not live)": 127,
+    "Growing": 77,
+    "Churned": 60,
+    "Declining": 37,
+    "Dormant": 5
+  },
+  "declining_gmv_change_usd": -11892075,
+  "alerts": {
+    "flag_negative_gp": 12,
+    "flag_billing_leakage": 13,
+    "flag_low_success_rate": 12,
+    "flag_declining": 37,
+    "flag_inactive": 65,
+    "flag_never_transacted": 150
+  },
+  "billing_leakage_fy26_usd": 51455,
+  "billing_leakage_total_usd": 52137,
+  "billing_leakage_merchants": 13,
+  "concentration": {
+    "gmv": {
+      "merchants": 837,
+      "top10_share_pct": 36.6,
+      "top10pct_share_pct": 76.9,
+      "hhi": 221.0
+    },
+    "gp": {
+      "merchants": 837,
+      "top10_share_pct": 32.9,
+      "top10pct_share_pct": 66.5,
+      "hhi": 202.0
+    }
+  },
+  "profitability": {
+    "negative_gp_merchants": 12,
+    "negative_gp_total_usd": -72109.0,
+    "negative_gp_gmv_musd": 81.4,
+    "below_cost_contracts": 9,
+    "billing_leakage_driven": 3,
+    "repricing_uplift_usd": 284425.0
+  },
+  "incidents": [
+    {
+      "gateway": "GW-ORION",
+      "payment_method": "CARD",
+      "start": "20251012",
+      "end": "20251025",
+      "anomalous_days": 14,
+      "avg_success_rate": 0.7337,
+      "baseline_success_rate": 0.9165,
+      "excess_failed_txn": 51409,
+      "est_lost_gmv_usd": 927376,
+      "est_lost_revenue_usd": 18296,
+      "event_type": "Incident"
+    },
+    {
+      "gateway": "GW-ORION",
+      "payment_method": "TOKEN",
+      "start": "20251012",
+      "end": "20251025",
+      "anomalous_days": 14,
+      "avg_success_rate": 0.7851,
+      "baseline_success_rate": 0.9659,
+      "excess_failed_txn": 11477,
+      "est_lost_gmv_usd": 246236,
+      "est_lost_revenue_usd": 4858,
+      "event_type": "Incident"
+    }
+  ],
+  "one_day_blips": 44,
+  "degradation": [
+    {
+      "gateway": "GW-NILE",
+      "payment_method": "WALLET",
+      "slope_pp_per_month": -1.17,
+      "sr_6m_ago_pct": 87.68,
+      "sr_latest_pct": 81.93,
+      "flag_degrading": true
+    }
+  ],
+  "growth_bridge_total": {
+    "Churned merchants": -17202058.0,
+    "Contraction": -63632914.0,
+    "Expansion": 247560501.0,
+    "New merchants": 114359572.0
+  },
+  "am_action_merchants": 284
+}

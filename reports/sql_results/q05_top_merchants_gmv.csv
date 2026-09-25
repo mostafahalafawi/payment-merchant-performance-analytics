@@ -1,0 +1,16 @@
+gmv_rank,mid,merchant_name,country_code,segment,vertical,gmv_fy26_musd,cumulative_gmv_share_pct,revenue_kusd,gp_kusd,gp_margin_pct,lifecycle_status
+1,EG181564804,Sand Cafe,EG,Enterprise,Food & Beverage,100.53,8.1,1948.4,270.0,13.9,Active
+2,AE957433919,Prime Stores,AE,Enterprise,Retail,95.03,15.8,2032.6,578.1,28.4,Active
+3,SA860742247,Zenith Medical,SA,Enterprise,Healthcare,60.34,20.7,908.3,147.9,16.3,Active
+4,SA710370541,Prime Learning,SA,Enterprise,Education,31.79,23.3,399.9,62.7,15.7,Active
+5,AE307567415,Palm Online,AE,Enterprise,E-commerce,29.65,25.7,569.2,127.1,22.3,Active
+6,SA267227056,Metro Deals,SA,Enterprise,E-commerce,28.6,28.0,431.2,113.8,26.4,Active
+7,AE671906697,Royal Cafe,AE,Enterprise,Food & Beverage,27.29,30.2,502.7,53.3,10.6,Active
+8,SA597658531,Oasis Connect,SA,Enterprise,Telecom & Utilities,26.99,32.4,406.2,-29.0,-7.1,Active
+9,AE932795909,Oasis Pharmacy,AE,Enterprise,Healthcare,26.95,34.5,573.1,187.5,32.7,Active
+10,SA320986752,Urban EdTech,SA,Enterprise,Education,25.89,36.6,354.6,72.6,20.5,Active
+11,AE410140017,Sand Connect,AE,Enterprise,Telecom & Utilities,23.67,38.6,321.2,21.2,6.6,Active
+12,SA972748866,Amber Power,SA,Enterprise,Telecom & Utilities,23.48,40.5,359.3,8.1,2.2,Active
+13,SA764037736,Cedar Care,SA,Enterprise,Healthcare,17.96,41.9,296.9,86.5,29.1,Active
+14,EG449636175,Amber Kitchen,EG,Enterprise,Food & Beverage,17.86,43.4,338.9,26.5,7.8,Active
+15,AE881349842,Cedar Logistics,AE,B2B,Logistics,17.33,44.8,251.1,63.7,25.4,Active

@@ -1,0 +1,23 @@
+list,mid,merchant_name,country_code,segment,gmv_fy26_musd,revenue_kusd,cogs_kusd,gp_kusd,gp_margin_pct,take_rate_pct,cost_of_failed_attempts_kusd
+Top 10 GP,AE957433919,Prime Stores,AE,Enterprise,95.03,2032.6,1454.5,578.1,28.4,2.139,2.8
+Top 10 GP,EG181564804,Sand Cafe,EG,Enterprise,100.53,1948.4,1678.4,270.0,13.9,1.938,19.5
+Top 10 GP,AE932795909,Oasis Pharmacy,AE,Enterprise,26.95,573.1,385.6,187.5,32.7,2.126,0.5
+Top 10 GP,SA860742247,Zenith Medical,SA,Enterprise,60.34,908.3,760.4,147.9,16.3,1.505,1.2
+Top 10 GP,EG987489356,Sand Cloud,EG,Online,10.36,362.3,233.7,128.6,35.5,3.497,3.8
+Top 10 GP,AE307567415,Palm Online,AE,Enterprise,29.65,569.2,442.1,127.1,22.3,1.92,0.9
+Top 10 GP,SA267227056,Metro Deals,SA,Enterprise,28.6,431.2,317.4,113.8,26.4,1.508,0.4
+Top 10 GP,SA764037736,Cedar Care,SA,Enterprise,17.96,296.9,210.4,86.5,29.1,1.653,0.3
+Top 10 GP,SA705652485,Swift Outlet,SA,Enterprise,13.41,238.9,164.1,74.8,31.3,1.781,0.5
+Top 10 GP,SA320986752,Urban EdTech,SA,Enterprise,25.89,354.6,282.0,72.6,20.5,1.37,0.1
+Negative GP,EG612590977,Cedar Basket 1098,EG,Enterprise,0.31,4.0,4.0,-0.0,-0.1,1.318,0.0
+Negative GP,SA580727871,Amber Games,SA,Online,0.2,3.3,3.5,-0.1,-4.5,1.646,0.0
+Negative GP,AE520556972,Palm Telecom,AE,B2B,3.42,47.5,47.6,-0.2,-0.4,1.389,0.2
+Negative GP,SA247806531,Green Digital,SA,Online,0.11,1.7,1.9,-0.2,-11.9,1.549,0.0
+Negative GP,OM371938797,Cedar Bakery 760,OM,Enterprise,5.69,95.2,95.8,-0.7,-0.7,1.672,0.7
+Negative GP,OM817062602,Silver Basket,OM,Online,2.81,39.4,40.2,-0.8,-2.1,1.402,0.1
+Negative GP,AE123781768,Sand Bakery,AE,Enterprise,3.84,58.9,60.1,-1.3,-2.1,1.535,0.3
+Negative GP,OM267217098,Palm Utilities,OM,Enterprise,9.23,122.9,128.4,-5.6,-4.5,1.331,0.6
+Negative GP,AE642488904,Swift Journeys,AE,Enterprise,9.17,152.8,161.5,-8.8,-5.7,1.665,0.1
+Negative GP,SA734980407,Green Bakery,SA,Enterprise,5.97,98.3,110.8,-12.5,-12.7,1.646,1.0
+Negative GP,SA331993666,Crescent Mart 858,SA,Enterprise,13.66,153.1,166.2,-13.1,-8.6,1.12,0.4
+Negative GP,SA597658531,Oasis Connect,SA,Enterprise,26.99,406.2,435.1,-29.0,-7.1,1.505,1.8

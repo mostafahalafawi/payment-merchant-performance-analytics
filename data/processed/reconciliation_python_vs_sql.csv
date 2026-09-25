@@ -1,0 +1,12 @@
+check,passed
+row_count,True
+gmv,True
+revenue,True
+gp,True
+transactions,True
+active_flag,True
+months_since_live,True
+gmv_rank,True
+company_active_merchants,True
+company_new_live,True
+company_gmv_yoy,True

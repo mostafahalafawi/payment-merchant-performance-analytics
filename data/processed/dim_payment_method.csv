@@ -1,0 +1,7 @@
+payment_method,payment_method_name,default_mdr_pct,default_cost_pct
+CARD,Credit / Debit Card,0.0225,0.0135
+LDEBIT,Local Debit Scheme,0.011,0.0045
+WALLET,Mobile Wallet,0.018,0.009
+TOKEN,Tokenized Mobile Pay,0.023,0.014
+BNPL,Buy Now Pay Later,0.045,0.032
+BANKTR,Instant Bank Transfer,0.003,0.0005

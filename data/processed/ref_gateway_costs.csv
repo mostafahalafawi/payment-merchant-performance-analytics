@@ -1,0 +1,25 @@
+gateway,gateway_name,payment_method,cost_pct,cost_fixed_usd,auth_fee_usd
+GW-ATLAS,Atlas Global Acquiring,CARD,0.01458,0.054,0.02
+GW-ATLAS,Atlas Global Acquiring,LDEBIT,0.00486,0.0324,0.02
+GW-ATLAS,Atlas Global Acquiring,WALLET,0.00972,0.0324,0.02
+GW-ATLAS,Atlas Global Acquiring,TOKEN,0.01512,0.054,0.02
+GW-ATLAS,Atlas Global Acquiring,BNPL,0.03456,0.0,0.02
+GW-ATLAS,Atlas Global Acquiring,BANKTR,0.00054,0.378,0.02
+GW-NIMBUS,Nimbus GCC Gateway,CARD,0.0135,0.05,0.015
+GW-NIMBUS,Nimbus GCC Gateway,LDEBIT,0.0045,0.03,0.015
+GW-NIMBUS,Nimbus GCC Gateway,WALLET,0.009,0.03,0.015
+GW-NIMBUS,Nimbus GCC Gateway,TOKEN,0.014,0.05,0.015
+GW-NIMBUS,Nimbus GCC Gateway,BNPL,0.032,0.0,0.015
+GW-NIMBUS,Nimbus GCC Gateway,BANKTR,0.0005,0.35,0.015
+GW-ORION,Orion Payments,CARD,0.01282,0.0475,0.012
+GW-ORION,Orion Payments,LDEBIT,0.00427,0.0285,0.012
+GW-ORION,Orion Payments,WALLET,0.00855,0.0285,0.012
+GW-ORION,Orion Payments,TOKEN,0.0133,0.0475,0.012
+GW-ORION,Orion Payments,BNPL,0.0304,0.0,0.012
+GW-ORION,Orion Payments,BANKTR,0.00047,0.3325,0.012
+GW-NILE,Nile Local Switch,CARD,0.01215,0.045,0.008
+GW-NILE,Nile Local Switch,LDEBIT,0.00405,0.027,0.008
+GW-NILE,Nile Local Switch,WALLET,0.0081,0.027,0.008
+GW-NILE,Nile Local Switch,TOKEN,0.0126,0.045,0.008
+GW-NILE,Nile Local Switch,BNPL,0.0288,0.0,0.008
+GW-NILE,Nile Local Switch,BANKTR,0.00045,0.315,0.008

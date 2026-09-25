@@ -1,0 +1,5 @@
+gateway,gateway_name,gateway_countries,auth_fee_usd
+GW-ATLAS,Atlas Global Acquiring,"EG,SA,AE,OM",0.02
+GW-NIMBUS,Nimbus GCC Gateway,"SA,AE,OM",0.015
+GW-ORION,Orion Payments,"SA,AE",0.012
+GW-NILE,Nile Local Switch,EG,0.008

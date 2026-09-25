@@ -1,0 +1,25 @@
+gateway,decline_reason,failed_fy25,failed_fy26,share_of_gateway_fy26_pct,yoy_change_pct
+GW-ATLAS,Issuer Decline,362568,492810,31.6,35.9
+GW-ATLAS,Insufficient Funds,240984,328342,21.0,36.3
+GW-ATLAS,3DS Authentication Failed,204296,277329,17.8,35.7
+GW-ATLAS,Risk / Fraud Rule,177193,247338,15.8,39.6
+GW-ATLAS,Invalid Card / Account Data,89310,122101,7.8,36.7
+GW-ATLAS,Gateway Timeout,68515,93617,6.0,36.6
+GW-NILE,Insufficient Funds,319013,446680,28.7,40.0
+GW-NILE,Issuer Decline,258423,392088,25.2,51.7
+GW-NILE,3DS Authentication Failed,148291,231453,14.9,56.1
+GW-NILE,Gateway Timeout,112217,225303,14.5,100.8
+GW-NILE,Invalid Card / Account Data,97832,149137,9.6,52.4
+GW-NILE,Risk / Fraud Rule,78277,111999,7.2,43.1
+GW-NIMBUS,Issuer Decline,193950,271437,33.2,40.0
+GW-NIMBUS,Insufficient Funds,149015,211756,25.9,42.1
+GW-NIMBUS,3DS Authentication Failed,98692,136397,16.7,38.2
+GW-NIMBUS,Risk / Fraud Rule,52535,73192,8.9,39.3
+GW-NIMBUS,Invalid Card / Account Data,51456,72620,8.9,41.1
+GW-NIMBUS,Gateway Timeout,38181,53152,6.5,39.2
+GW-ORION,Issuer Decline,165260,182588,29.3,10.5
+GW-ORION,Gateway Timeout,29230,127195,20.4,335.2
+GW-ORION,Insufficient Funds,106383,117844,18.9,10.8
+GW-ORION,3DS Authentication Failed,89233,99466,16.0,11.5
+GW-ORION,Risk / Fraud Rule,48368,53232,8.5,10.1
+GW-ORION,Invalid Card / Account Data,38765,43025,6.9,11.0

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated data (regenerate with: python run_pipeline.py)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.db
+data/processed/fact_payments_daily.csv
+data/processed/fact_declines_monthly.csv
+reports/analysis/gateway_daily_sr.csv
+
+# Power BI / Office temp files
+*.pbix.bak
+~$*
+.~lock.*
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

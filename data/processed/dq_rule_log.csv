@@ -1,0 +1,19 @@
+rule_id,table,description,severity,action,rows_affected,pct_of_rows
+DQ-M01,merchants,Duplicate MID: several merchant records share one MID (merged to earliest record),HIGH,FIX,6,0.5222
+DQ-M02,merchants,Missing country (imputed from account manager's market),MEDIUM,FIX,4,0.3481
+DQ-M03,merchants,Missing vertical (set to 'Unclassified'),LOW,FIX,11,0.9574
+DQ-M04,merchants,Go-live date before signup date (signup reset to go-live),MEDIUM,FIX,5,0.4352
+DQ-M05,merchants,Missing merchant ID or MID,CRITICAL,QUARANTINE,0,0.0
+STD-01,transactions,Status label variants mapped to canonical status,LOW,FIX,156955,
+DQ-T01,transactions,Exact duplicate row (double export),HIGH,DROP,7866,0.4007
+DQ-T02,transactions,"Transaction date missing or invalid (e.g. 2025-13-01, 31/02/2025)",CRITICAL,QUARANTINE,2942,0.1499
+DQ-T03,transactions,Transaction date outside the reporting window,HIGH,QUARANTINE,0,0.0
+DQ-T04,transactions,MID not found in merchant master,HIGH,QUARANTINE,983,0.0501
+DQ-T05,transactions,Impossible / unknown payment status (e.g. PENDING_REVIEW),HIGH,QUARANTINE,1570,0.08
+DQ-T06,transactions,Unknown payment method or gateway,HIGH,QUARANTINE,0,0.0
+DQ-T07,transactions,Negative amount / revenue / cost,HIGH,QUARANTINE,780,0.0397
+DQ-T08,transactions,Zero or negative transaction count with a non-zero amount,HIGH,QUARANTINE,585,0.0298
+DQ-T09,transactions,Revenue greater than GMV (impossible for a successful payment),HIGH,QUARANTINE,391,0.0199
+DQ-T10,transactions,Revenue booked on a failed / voided / refunded row,MEDIUM,QUARANTINE,0,0.0
+DQ-T11,transactions,Currency does not match the merchant's country,MEDIUM,QUARANTINE,0,0.0
+DQ-T12,transactions,GP inconsistent with revenue - cost (recomputed),MEDIUM,FIX,1961,0.0999

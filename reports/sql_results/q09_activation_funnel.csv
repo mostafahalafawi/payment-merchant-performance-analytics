@@ -1,0 +1,6 @@
+integration_type,signed_in_period,went_live,transacted,activated_within_30d,live_rate_pct,activation_rate_of_live_pct,signed_to_activated_pct,avg_days_signup_to_live,avg_days_live_to_first_txn
+Direct API,151,113,97,97,74.8,85.8,64.2,73.7,5.4
+Payment Links,127,121,95,87,95.3,71.9,68.5,6.0,12.4
+Hosted Checkout,61,56,45,42,91.8,75.0,68.9,26.6,7.5
+POS Terminal,122,119,108,108,97.5,90.8,88.5,22.3,3.7
+E-commerce Plugin,36,35,34,33,97.2,94.3,91.7,15.7,7.3

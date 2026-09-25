@@ -1,0 +1,9 @@
+check_id,description,passed
+IC-01,Every fact row maps to a merchant,True
+IC-02,dim_merchant: one row per MID,True
+IC-03,No negative amounts / revenue / cost,True
+IC-04,GMV only on Success rows,True
+IC-05,Revenue <= GMV on Success rows,True
+IC-06,GP = revenue - cost,True
+IC-07,No transactions before merchant go-live,True
+IC-08,"Unique grain (date, merchant, method, gateway, status)",True

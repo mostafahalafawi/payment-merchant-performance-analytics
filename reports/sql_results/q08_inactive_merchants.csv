@@ -1,0 +1,8 @@
+lifecycle_status,segment,merchants,their_gmv_fy25_musd,avg_days_since_last_txn
+Churned,Enterprise,4,10.51,372.0
+Churned,Online,22,9.63,316.0
+Churned,B2B,6,5.52,508.0
+Churned,SME,28,2.57,361.0
+Dormant,Online,1,1.72,61.0
+Dormant,SME,3,0.09,61.0
+Dormant,B2B,1,0.02,33.0

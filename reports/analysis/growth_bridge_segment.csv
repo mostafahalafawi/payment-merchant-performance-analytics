@@ -1,0 +1,17 @@
+segment,type,merchants,gmv_change
+B2B,Churned merchants,6,-5520969.2645
+B2B,Contraction,17,-5116763.761799999
+B2B,Expansion,45,46305907.4401
+B2B,New merchants,27,22294339.8066
+Enterprise,Churned merchants,3,-7386477.7478
+Enterprise,Contraction,15,-48650601.3213
+Enterprise,Expansion,34,151560991.0517
+Enterprise,New merchants,12,61136127.2426
+Online,Churned merchants,10,-3257508.413
+Online,Contraction,77,-7534759.7347
+Online,Expansion,117,34962043.7217
+Online,New merchants,83,24507261.6995
+SME,Churned merchants,14,-1037102.6487
+SME,Contraction,103,-2330789.5617000004
+SME,Expansion,189,14731558.7259
+SME,New merchants,114,6421842.9547

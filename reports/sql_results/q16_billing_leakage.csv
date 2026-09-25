@@ -1,0 +1,14 @@
+mid,merchant_name,country_code,segment,account_manager,leakage_since_month,leakage_usd,billed_below_contract_pct
+OM817062602,Silver Basket,OM,Online,Salim Al-Harthy,202507,25577.0,39.4
+SA382289892,Cedar Online 751,SA,Online,Omar Al-Anazi,202508,11157.0,39.8
+SA315873581,Blue Streaming,SA,Online,Reem Al-Ghamdi,202508,6084.0,39.7
+SA423374323,Royal Mart,SA,SME,Reem Al-Ghamdi,202511,2327.0,35.5
+SA580727871,Amber Games,SA,Online,Omar Al-Anazi,202508,2201.0,40.0
+AE211109637,Cedar Academy,AE,SME,Yousef Al-Marri,202412,1948.0,39.9
+SA247806531,Green Digital,SA,Online,Reem Al-Ghamdi,202601,1113.0,40.0
+EG468167807,Sand Learning,EG,SME,Karim Ezzat,202506,519.0,39.6
+OM194734403,Prime Medical,OM,SME,Salim Al-Harthy,202506,337.0,39.1
+OM781648289,Urban Schools,OM,SME,Salim Al-Harthy,202603,308.0,40.0
+SA332563719,Urban Bakery,SA,SME,Reem Al-Ghamdi,202508,169.0,35.8
+SA147381632,Bright Hotels,SA,Online,Turki Al-Shammari,202605,118.0,40.0
+EG631844222,Silver Roastery 618,EG,SME,Hany Soliman,202512,84.0,40.0

@@ -1,0 +1,301 @@
+merchant_id,mid,merchant_name,country_code,segment,vertical,service,integration_type,settlement_type,account_manager,signup_date,live_date
+M00001,SA138962665,Bright Labs,SA,SME,Healthcare,Online Checkout,Hosted Checkout,T+2,Reem Al-Ghamdi,2020-09-01,2020-09-16
+M00002,AE208762198,Sand Deals,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Layla Haddad,2020-09-04,2020-10-30
+M00003,SA168621990,Crescent Medical,SA,SME,,Online Checkout,Direct API,T+1,Reem Al-Ghamdi,2020-09-07,2020-12-28
+M00004,SA865281392,Swift Consulting,SA,SME,Professional Services,Payment Links,Payment Links,T+1,Reem Al-Ghamdi,2020-09-08,2020-09-14
+M00005,EG855745273,Coral Mart,EG,SME,Retail,Online Checkout,E-commerce Plugin,T+2,Hany Soliman,2020-09-10,2020-09-15
+M00006,AE901159238,Prime Care,AE,SME,Healthcare,POS Acceptance,POS Terminal,Instant,Layla Haddad,2020-09-15,2020-10-20
+M00007,AE923160667,Silver Advisory,AE,SME,Professional Services,POS Acceptance,POS Terminal,Instant,Yousef Al-Marri,2020-09-19,2020-10-01
+M00008,SA311285465,Palm Games,SA,Online,Digital Services,Online Checkout,Direct API,T+2,Omar Al-Anazi,2020-09-20,2020-12-20
+M00009,SA829535554,Royal Supply,SA,B2B,Distribution & Wholesale,B2B Collections,Direct API,Weekly,Turki Al-Shammari,2020-09-28,2020-12-15
+M00010,SA420885285,Prime Mart,SA,SME,Retail,Online Checkout,Direct API,T+2,Reem Al-Ghamdi,2020-10-03,2021-01-15
+M00011,SA765577175,Crescent Kitchen,SA,Enterprise,Food & Beverage,Payment Links,Payment Links,T+2,Turki Al-Shammari,2020-10-04,2020-10-11
+M00012,OM267217098,Palm Utilities,OM,Enterprise,Telecom & Utilities,Payment Links,Payment Links,Weekly,Salim Al-Harthy,2020-10-05,2020-10-11
+M00013,SA719959686,Metro Roastery,SA,SME,Food & Beverage,Payment Links,Payment Links,T+2,Omar Al-Anazi,2020-10-07,2020-10-10
+M00014,AE288662037,Coral Cargo,AE,B2B,Logistics,B2B Collections,Payment Links,T+1,Yousef Al-Marri,2020-10-13,2020-10-17
+M00015,AE987618927,Oasis Streaming,AE,Online,Digital Services,Online Checkout,Hosted Checkout,T+2,Yousef Al-Marri,2020-10-17,2020-10-31
+M00016,SA159383546,Cedar Grill,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Reem Al-Ghamdi,2020-10-17,2020-11-19
+M00017,AE338852002,Palm Stores,AE,SME,Retail,Online Checkout,Hosted Checkout,Instant,Layla Haddad,2020-10-19,2020-10-31
+M00018,SA781674979,Coral Kitchen,SA,SME,Food & Beverage,Online Checkout,Hosted Checkout,Instant,Omar Al-Anazi,2020-10-20,2020-11-05
+M00019,EG772389130,Silver Trading,EG,B2B,Distribution & Wholesale,Payment Links,Payment Links,Weekly,Hany Soliman,2020-10-25,2020-11-01
+M00020,AE970872555,Amber Market,AE,SME,Retail,Online Checkout,Hosted Checkout,T+2,Yousef Al-Marri,2020-10-27,2020-11-21
+M00021,EG327327982,Silver Grill,EG,SME,Food & Beverage,Payment Links,Payment Links,T+1,Nadia Fouad,2020-10-28,2020-11-07
+M00022,EG943656964,Coral Digital,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Nadia Fouad,2020-10-30,2020-12-24
+M00023,SA466668047,Golden Cafe,SA,Online,Food & Beverage,Online Checkout,E-commerce Plugin,T+2,Omar Al-Anazi,2020-11-01,2020-11-16
+M00024,EG416828825,Silver Journeys,EG,Online,Travel & Hospitality,Online Checkout,Direct API,T+2,Nadia Fouad,2020-11-06,2021-02-17
+M00025,SA786403853,Crescent Market,SA,Enterprise,Retail,Payment Links,Payment Links,T+2,Turki Al-Shammari,2020-11-08,
+M00026,AE642488904,Swift Journeys,AE,Enterprise,Travel & Hospitality,Online Checkout,E-commerce Plugin,T+1,Yousef Al-Marri,2020-11-10,2020-11-18
+M00027,EG439677893,Metro Online,EG,Online,E-commerce,Online Checkout,Direct API,T+1,Mai Ragab,2020-11-12,
+M00028,AE519251741,Pearl Online,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Layla Haddad,2020-11-20,
+M00029,EG542845011,Bright Stores,EG,SME,Retail,Online Checkout,Hosted Checkout,T+1,Nadia Fouad,2020-11-22,2020-12-24
+M00030,AE396175229,Cedar Mart,AE,SME,Retail,POS Acceptance,POS Terminal,T+1,Yousef Al-Marri,2020-11-22,2020-12-21
+M00031,AE870997409,Pearl Shop,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Layla Haddad,2020-11-23,2021-03-04
+M00032,EG178731082,Swift Streaming,EG,Online,Digital Services,Online Checkout,Direct API,T+1,Mai Ragab,2020-11-25,2021-01-08
+M00033,EG622719015,Cedar Tours,EG,Online,Travel & Hospitality,Online Checkout,Direct API,T+1,Hany Soliman,2020-11-27,2021-03-02
+M00034,AE462770123,Amber Consulting,AE,SME,Professional Services,Payment Links,Payment Links,T+1,Yousef Al-Marri,2020-11-27,2020-12-07
+M00035,SA944601083,Falcon Services,SA,SME,Professional Services,POS Acceptance,POS Terminal,Instant,Reem Al-Ghamdi,2020-12-01,2021-01-04
+M00036,EG397022030,Prime Wholesale,EG,B2B,Distribution & Wholesale,B2B Collections,Direct API,T+1,Karim Ezzat,2020-12-03,2021-03-17
+M00037,OM939316312,Prime Outlet,OM,SME,Retail,POS Acceptance,POS Terminal,T+2,Salim Al-Harthy,2020-12-06,2021-01-09
+M00038,AE861319254,Crescent Deals,AE,Online,E-commerce,Online Checkout,Hosted Checkout,Instant,Yousef Al-Marri,2020-12-07,2020-12-27
+M00039,OM222996492,Golden Traders,OM,B2B,Distribution & Wholesale,B2B Collections,Direct API,T+1,Salim Al-Harthy,2020-12-08,2021-02-10
+M00040,EG474829702,Bright Institute,EG,Online,Education,Online Checkout,Direct API,T+2,Hany Soliman,2020-12-08,2021-03-03
+M00041,AE204415052,Horizon Market,AE,SME,Retail,Payment Links,Payment Links,Instant,Yousef Al-Marri,2020-12-09,2020-12-17
+M00042,SA711632487,Pearl Bakery,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+1,Reem Al-Ghamdi,2020-12-10,2021-01-11
+M00043,AE667080643,Falcon Basket,AE,Online,E-commerce,Subscriptions,Direct API,Instant,Layla Haddad,2020-12-15,2021-01-15
+M00044,EG537155658,Urban Kitchen,EG,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Nadia Fouad,2020-12-15,2021-01-05
+M00045,AE957433919,Prime Stores,AE,Enterprise,Retail,Online Checkout,Direct API,Weekly,Layla Haddad,2020-12-15,2021-01-14
+M00046,EG680139391,Coral Roastery,EG,Online,Food & Beverage,Online Checkout,Direct API,Instant,Hany Soliman,2020-12-16,2021-02-25
+M00047,SA925677957,Silver EdTech,SA,SME,Education,POS Acceptance,POS Terminal,T+1,Omar Al-Anazi,2020-12-20,2021-01-19
+M00048,SA567182035,Royal Academy,SA,SME,Education,POS Acceptance,POS Terminal,T+1,Reem Al-Ghamdi,2020-12-28,
+M00049,OM136025016,Green Express,OM,B2B,Logistics,Payment Links,Payment Links,Weekly,Salim Al-Harthy,2020-12-30,
+M00050,EG199157533,Metro Boutique,EG,SME,Retail,POS Acceptance,POS Terminal,T+2,Mai Ragab,2020-12-30,2021-02-03
+M00051,OM501692260,Pearl Schools,OM,Online,Education,Online Checkout,Direct API,T+1,Salim Al-Harthy,2020-12-30,2021-02-02
+M00052,EG290794122,Green Academy,EG,SME,Education,Payment Links,Payment Links,T+1,Mai Ragab,2020-12-31,2021-01-05
+M00053,OM861947173,Swift Medical,OM,SME,Healthcare,POS Acceptance,POS Terminal,T+2,Salim Al-Harthy,2021-01-13,2021-02-08
+M00054,SA588810791,Coral Telecom,SA,B2B,Telecom & Utilities,Payment Links,Payment Links,T+1,Omar Al-Anazi,2021-01-14,2021-01-23
+M00055,SA999694215,Royal Care,SA,SME,Healthcare,Payment Links,Payment Links,T+2,Turki Al-Shammari,2021-01-14,2021-01-21
+M00056,EG991914423,Blue Outlet,EG,SME,Retail,Payment Links,Payment Links,T+1,Mai Ragab,2021-01-22,2021-01-29
+M00057,SA843654782,Oasis Logistics,SA,B2B,Logistics,B2B Collections,Direct API,T+1,Reem Al-Ghamdi,2021-01-22,2021-03-14
+M00058,OM206534144,Golden Partners,OM,SME,Professional Services,Payment Links,Payment Links,T+2,Salim Al-Harthy,2021-01-23,2021-01-28
+M00059,AE744794983,Pearl Deals,AE,Online,E-commerce,Subscriptions,Direct API,T+1,Yousef Al-Marri,2021-01-24,2021-05-04
+M00060,EG605770113,Horizon Labs,EG,SME,Healthcare,Payment Links,Payment Links,Instant,Mai Ragab,2021-01-31,2021-02-05
+M00061,EG989134753,Zenith Travel,EG,Enterprise,Travel & Hospitality,Online Checkout,E-commerce Plugin,T+2,Mai Ragab,2021-02-01,2021-02-11
+M00062,AE901367882,Oasis Online,AE,Enterprise,E-commerce,POS Acceptance,POS Terminal,T+1,Layla Haddad,2021-02-08,2021-03-14
+M00063,SA502327003,Bright Pharmacy,SA,SME,Healthcare,Online Checkout,Direct API,T+2,Omar Al-Anazi,2021-02-10,2021-04-19
+M00064,EG559913630,Swift Institute,EG,Online,Education,Online Checkout,Hosted Checkout,T+2,Mai Ragab,2021-02-10,2021-03-20
+M00065,EG270479119,Coral Stores,EG,SME,Retail,Online Checkout,Hosted Checkout,T+2,Karim Ezzat,2021-02-11,2021-03-04
+M00066,EG952454778,Oasis Grill,EG,SME,Food & Beverage,Online Checkout,Direct API,T+1,Nadia Fouad,2021-02-13,2021-04-20
+M00067,SA624172387,Oasis Roastery,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Turki Al-Shammari,2021-02-16,2021-03-15
+M00068,SA951904107,Green Cart,SA,Online,E-commerce,Online Checkout,E-commerce Plugin,Instant,Turki Al-Shammari,2021-02-16,2021-02-24
+M00069,AE551105480,Silver Partners,AE,SME,Professional Services,Payment Links,Payment Links,T+2,Yousef Al-Marri,2021-02-16,2021-02-19
+M00070,AE405837168,Coral Shop,AE,Online,E-commerce,Online Checkout,Direct API,T+1,Yousef Al-Marri,2021-02-20,
+M00071,SA184014126,Oasis Cafe,SA,Online,Food & Beverage,Subscriptions,Direct API,Instant,Turki Al-Shammari,2021-02-21,2021-04-23
+M00072,AE634747251,Amber Academy,AE,Online,Education,Online Checkout,Direct API,T+2,Yousef Al-Marri,2021-02-21,2021-06-13
+M00073,EG312940892,Nova Consulting,EG,SME,Professional Services,POS Acceptance,POS Terminal,T+2,Mai Ragab,2021-02-23,2021-03-05
+M00074,OM869288062,Sand Stays,OM,Online,Travel & Hospitality,Online Checkout,Direct API,T+1,Salim Al-Harthy,2021-02-24,2021-04-25
+M00075,EG161643120,Horizon Stores,EG,SME,Retail,POS Acceptance,POS Terminal,T+1,Mai Ragab,2021-02-26,2021-03-08
+M00076,SA435110503,Swift Partners,SA,B2B,Professional Services,B2B Collections,Payment Links,Weekly,Reem Al-Ghamdi,2021-02-27,2021-03-02
+M00077,EG544762327,Silver Market,EG,SME,Retail,POS Acceptance,POS Terminal,Instant,Karim Ezzat,2021-02-28,2021-03-22
+M00078,EG629727686,Prime Cafe,EG,SME,Food & Beverage,Payment Links,Payment Links,T+1,Hany Soliman,2021-03-02,2021-03-05
+M00079,SA147303844,Urban Deals,SA,Online,E-commerce,Subscriptions,Direct API,T+1,Omar Al-Anazi,2021-03-03,2021-05-14
+M00080,EG893131097,Nova Boutique,EG,SME,Retail,Online Checkout,Direct API,T+2,Karim Ezzat,2021-03-05,
+M00081,AE836534480,Green Services,AE,SME,Professional Services,Online Checkout,E-commerce Plugin,T+2,Layla Haddad,2021-03-09,2021-03-25
+M00082,EG460895383,Amber Services,EG,SME,Professional Services,Online Checkout,Hosted Checkout,T+1,Hany Soliman,2021-03-11,
+M00083,SA407055199,Urban Outlet,SA,SME,Retail,Online Checkout,Hosted Checkout,Instant,Reem Al-Ghamdi,2021-03-11,2021-03-30
+M00084,EG892567447,Bright Boutique,EG,SME,Retail,Payment Links,Payment Links,T+1,Mai Ragab,2021-03-15,2021-03-24
+M00085,EG899270559,Silver Telecom,EG,B2B,Telecom & Utilities,B2B Collections,Payment Links,Weekly,Nadia Fouad,2021-03-15,2021-03-21
+M00086,EG849029255,Prime Bakery,EG,SME,,POS Acceptance,POS Terminal,T+2,Nadia Fouad,2021-03-18,2021-04-09
+M00087,AE201167720,Zenith Logistics,AE,B2B,Logistics,B2B Collections,Direct API,T+1,Layla Haddad,2021-03-23,2021-05-09
+M00088,OM194734403,Prime Medical,OM,SME,Healthcare,POS Acceptance,POS Terminal,T+1,Salim Al-Harthy,2021-03-24,2021-04-22
+M00089,AE984737156,Prime Consulting,AE,SME,Professional Services,Payment Links,Payment Links,Instant,Layla Haddad,2021-03-25,2021-03-31
+M00090,EG179674340,Pearl Mart,EG,SME,Retail,Payment Links,Payment Links,Instant,Karim Ezzat,2021-03-30,
+M00091,OM107384993,Nova Stores,OM,Enterprise,Retail,Online Checkout,Hosted Checkout,T+2,Salim Al-Harthy,2021-03-30,2021-04-14
+M00092,AE535684565,Prime Grill,AE,SME,Food & Beverage,Payment Links,Payment Links,T+1,Yousef Al-Marri,2021-04-01,2021-04-06
+M00093,AE779021046,Nova Travel,AE,Online,Travel & Hospitality,Online Checkout,Direct API,T+1,Layla Haddad,2021-04-01,2021-05-01
+M00094,OM730950792,Silver Shop,OM,Online,E-commerce,Subscriptions,Direct API,T+1,Salim Al-Harthy,2021-04-02,2021-06-20
+M00095,AE798073466,Amber Cart,AE,Online,E-commerce,Online Checkout,Hosted Checkout,T+2,Yousef Al-Marri,2021-04-03,2021-04-20
+M00096,EG555612612,Swift Deals,EG,Online,E-commerce,Online Checkout,E-commerce Plugin,T+2,Karim Ezzat,2021-04-06,2021-04-25
+M00097,AE572051786,Blue Cafe,AE,SME,Food & Beverage,POS Acceptance,POS Terminal,Instant,Layla Haddad,2021-04-06,2021-05-11
+M00098,SA576895050,Urban Mart,SA,SME,Retail,Payment Links,Payment Links,Instant,Reem Al-Ghamdi,2021-04-07,2021-04-12
+M00099,EG867607945,Blue Medical,EG,SME,Healthcare,POS Acceptance,POS Terminal,Instant,Nadia Fouad,2021-04-09,2021-04-26
+M00100,SA206829187,Green Partners,SA,SME,Professional Services,POS Acceptance,POS Terminal,T+1,Omar Al-Anazi,2021-04-11,2021-04-26
+M00101,EG216145371,Green Consulting,EG,SME,Professional Services,POS Acceptance,POS Terminal,T+2,Hany Soliman,2021-04-11,2021-04-24
+M00102,SA859807984,Palm Tours,SA,Online,Travel & Hospitality,Subscriptions,Direct API,Instant,Turki Al-Shammari,2021-04-12,2021-06-19
+M00103,SA526087400,Crescent Online,SA,Online,E-commerce,Subscriptions,Direct API,T+2,Reem Al-Ghamdi,2021-04-21,
+M00104,AE779615691,Coral Learning,AE,Online,Education,Online Checkout,Direct API,Instant,Layla Haddad,2021-04-28,
+M00105,EG934737958,Urban Apps,EG,Online,Digital Services,Online Checkout,E-commerce Plugin,T+1,Karim Ezzat,2021-04-28,2021-05-12
+M00106,EG299020051,Horizon Pharmacy,EG,SME,Healthcare,POS Acceptance,POS Terminal,T+1,Karim Ezzat,2021-04-29,2021-05-27
+M00107,OM528658283,Prime Partners,OM,SME,Professional Services,Payment Links,Payment Links,T+1,Salim Al-Harthy,2021-05-01,2021-05-04
+M00108,EG181564804,Sand Cafe,EG,Enterprise,Food & Beverage,Payment Links,Payment Links,T+2,Mai Ragab,2021-05-04,2021-05-10
+M00109,SA976443961,Oasis Supply,SA,B2B,Distribution & Wholesale,B2B Collections,Payment Links,Weekly,Omar Al-Anazi,2021-05-04,2021-05-10
+M00110,EG856516161,Sand Boutique,EG,SME,Retail,Online Checkout,Direct API,T+2,Mai Ragab,2021-05-05,2021-07-28
+M00111,SA572424588,Silver Bakery,SA,SME,Food & Beverage,Payment Links,Payment Links,T+2,Reem Al-Ghamdi,2021-05-05,2021-05-10
+M00112,SA694571512,Urban Institute,SA,SME,Education,POS Acceptance,POS Terminal,T+2,Omar Al-Anazi,2021-05-07,2021-05-29
+M00113,OM618125464,Amber Basket,OM,Online,E-commerce,Online Checkout,Direct API,T+2,Salim Al-Harthy,2021-05-08,2021-07-29
+M00114,SA710370541,Prime Learning,SA,Enterprise,Education,POS Acceptance,POS Terminal,T+1,Turki Al-Shammari,2021-05-09,2021-06-05
+M00115,AE808885338,Blue Mart,AE,SME,Retail,POS Acceptance,POS Terminal,T+1,Layla Haddad,2021-05-12,2021-05-31
+M00116,EG544329487,Bright Academy,EG,Online,Education,Online Checkout,Direct API,T+2,Mai Ragab,2021-05-17,2021-07-09
+M00117,EG135986426,Horizon Supply,EG,B2B,Distribution & Wholesale,B2B Collections,Direct API,Weekly,Karim Ezzat,2021-05-17,2021-07-10
+M00118,SA698801738,Palm Kitchen,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,Instant,Turki Al-Shammari,2021-05-17,2021-06-19
+M00119,EG867935936,Palm Academy,EG,Online,Education,Online Checkout,Direct API,T+1,Karim Ezzat,2021-05-19,2021-08-29
+M00120,SA267227056,Metro Deals,SA,Enterprise,E-commerce,POS Acceptance,POS Terminal,Weekly,Reem Al-Ghamdi,2021-05-30,2021-06-23
+M00121,SA390995470,Coral Pharmacy,SA,SME,Healthcare,Payment Links,Payment Links,T+2,Turki Al-Shammari,2021-05-30,2021-06-05
+M00122,AE282120405,Royal Bakery,AE,SME,Food & Beverage,POS Acceptance,POS Terminal,T+1,Yousef Al-Marri,2021-06-02,2021-06-22
+M00123,EG918104848,Prime Digital,EG,Online,Digital Services,Online Checkout,Hosted Checkout,T+2,Mai Ragab,2021-06-03,2021-07-05
+M00124,AE588030458,Palm Market,AE,SME,Retail,POS Acceptance,POS Terminal,T+2,Yousef Al-Marri,2021-06-06,2021-06-23
+M00125,SA189353734,Zenith Bakery,SA,Online,Food & Beverage,Subscriptions,Direct API,T+2,Turki Al-Shammari,2021-06-08,2021-08-06
+M00126,OM780225802,Nova Cafe,OM,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Salim Al-Harthy,2021-06-12,2021-07-14
+M00127,EG100648072,Horizon Advisory,EG,SME,Professional Services,Online Checkout,Hosted Checkout,T+2,Karim Ezzat,2021-06-19,2021-07-13
+M00128,EG704826709,Blue Stores,EG,SME,Retail,POS Acceptance,POS Terminal,T+2,Hany Soliman,2021-06-19,2021-07-24
+M00129,AE348507314,Crescent Journeys,AE,Online,Travel & Hospitality,Online Checkout,Hosted Checkout,T+1,Layla Haddad,2021-06-20,2021-07-10
+M00130,EG344164016,Palm Cafe,EG,SME,Food & Beverage,POS Acceptance,POS Terminal,Instant,Nadia Fouad,2021-06-21,2021-07-26
+M00131,SA124881724,Prime Power,SA,Enterprise,Telecom & Utilities,POS Acceptance,POS Terminal,T+2,Reem Al-Ghamdi,2021-06-22,2021-07-24
+M00132,SA674924548,Royal Kitchen,SA,SME,Food & Beverage,Payment Links,Payment Links,T+2,Turki Al-Shammari,2021-06-25,2021-06-28
+M00133,EG386547356,Golden Supply,EG,B2B,Distribution & Wholesale,B2B Collections,Direct API,T+1,Nadia Fouad,2021-06-27,2021-09-25
+M00134,AE603567666,Prime Deals,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Layla Haddad,2021-06-29,2021-08-16
+M00135,SA139966565,Sand Grill,SA,SME,Food & Beverage,Payment Links,Payment Links,T+2,Reem Al-Ghamdi,2021-07-04,2021-07-09
+M00136,EG280455389,Crescent Cart,EG,Online,E-commerce,Subscriptions,Direct API,T+2,Karim Ezzat,2021-07-05,2021-09-03
+M00137,SA895143129,Pearl Medical,SA,SME,Healthcare,Payment Links,Payment Links,T+2,Turki Al-Shammari,2021-07-18,2021-07-28
+M00138,OM454436104,Nova EdTech,OM,SME,Education,POS Acceptance,POS Terminal,T+2,Salim Al-Harthy,2021-07-19,2021-08-23
+M00139,EG679079810,Crescent Bakery,EG,SME,Food & Beverage,Payment Links,Payment Links,T+1,Mai Ragab,2021-07-19,2021-07-27
+M00140,EG497915590,Sand Institute,EG,Online,Education,Subscriptions,Direct API,T+2,Mai Ragab,2021-07-19,2021-10-08
+M00141,SA887297988,Falcon Stores,SA,SME,Retail,POS Acceptance,POS Terminal,T+1,Omar Al-Anazi,2021-07-19,2021-08-13
+M00142,SA423374323,Royal Mart,SA,SME,Retail,Payment Links,Payment Links,Instant,Reem Al-Ghamdi,2021-07-22,2021-07-27
+M00143,SA912413819,Prime Cloud,SA,Online,Digital Services,Subscriptions,Direct API,T+1,Reem Al-Ghamdi,2021-07-24,2021-08-31
+M00144,EG511884968,Zenith Services,EG,SME,Professional Services,Online Checkout,Hosted Checkout,T+1,Hany Soliman,2021-07-28,2021-08-30
+M00145,AE783290352,Falcon Kitchen,AE,SME,Food & Beverage,Online Checkout,Hosted Checkout,T+2,Yousef Al-Marri,2021-08-05,2021-09-11
+M00146,SA775621648,Silver Cafe,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Omar Al-Anazi,2021-08-07,2021-09-01
+M00147,AE554805022,Oasis Journeys,AE,Online,Travel & Hospitality,Online Checkout,Direct API,T+2,Yousef Al-Marri,2021-08-07,2021-09-18
+M00148,SA520439829,Sand Services,SA,B2B,Professional Services,B2B Collections,Payment Links,Weekly,Reem Al-Ghamdi,2021-08-07,2021-08-12
+M00149,EG875100630,Amber Boutique,EG,SME,Retail,Online Checkout,Direct API,T+2,Hany Soliman,2021-08-13,2021-11-21
+M00150,SA900572493,Royal Legal,SA,SME,Professional Services,Online Checkout,E-commerce Plugin,T+1,Omar Al-Anazi,2021-08-18,2021-08-24
+M00151,AE427050210,Silver Consulting,AE,SME,Professional Services,Payment Links,Payment Links,T+2,Yousef Al-Marri,2021-08-21,2021-08-24
+M00152,AE389283318,Horizon Power,AE,Enterprise,Telecom & Utilities,Payment Links,Payment Links,T+1,Layla Haddad,2021-08-25,2021-09-04
+M00153,SA517497912,Zenith Grill,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Reem Al-Ghamdi,2021-08-28,2021-09-22
+M00154,SA320986752,Urban EdTech,SA,Enterprise,Education,POS Acceptance,POS Terminal,Weekly,Turki Al-Shammari,2021-08-28,2021-09-09
+M00155,EG588041363,Golden EdTech,EG,SME,Education,POS Acceptance,POS Terminal,T+2,Hany Soliman,2021-09-04,
+M00156,SA779341840,Falcon Online,SA,Online,E-commerce,Online Checkout,Hosted Checkout,T+1,Turki Al-Shammari,2021-09-07,2021-10-17
+M00157,EG447972836,Cedar Stores,EG,SME,Retail,POS Acceptance,POS Terminal,T+2,Karim Ezzat,2021-09-09,2021-09-21
+M00158,AE561735990,Cedar Institute,AE,SME,Education,Online Checkout,E-commerce Plugin,T+1,Layla Haddad,2021-09-12,2021-10-06
+M00159,EG676342880,Swift Boutique,EG,SME,Retail,Payment Links,Payment Links,T+1,Karim Ezzat,2021-09-13,2021-09-16
+M00160,SA627300378,Crescent Advisory,SA,SME,Professional Services,Payment Links,Payment Links,T+2,Turki Al-Shammari,2021-09-20,2021-09-24
+M00161,OM892693620,Bright Online,OM,Online,E-commerce,Online Checkout,Hosted Checkout,T+1,Salim Al-Harthy,2021-09-24,2021-10-18
+M00162,EG877654092,Amber Telecom,,Enterprise,Telecom & Utilities,POS Acceptance,POS Terminal,T+1,Nadia Fouad,2021-09-30,2021-10-10
+M00163,SA776589285,Swift Online,SA,Online,E-commerce,Online Checkout,Direct API,T+1,Turki Al-Shammari,2021-10-01,2021-12-09
+M00164,EG981274071,Palm Cloud,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Hany Soliman,2021-10-05,2021-12-25
+M00165,AE608679106,Crescent Cafe,AE,SME,Food & Beverage,Payment Links,Payment Links,T+1,Layla Haddad,2021-10-07,2021-10-09
+M00166,EG573406141,Falcon Market,EG,SME,Retail,POS Acceptance,POS Terminal,T+2,Nadia Fouad,2021-11-23,2021-11-08
+M00167,SA189309853,Horizon Deals,SA,Online,E-commerce,Online Checkout,Direct API,T+2,Omar Al-Anazi,2021-10-12,2022-01-25
+M00168,EG538857731,Pearl Cart,EG,Online,E-commerce,Subscriptions,Direct API,T+2,Mai Ragab,2021-10-13,2021-12-21
+M00169,EG110254241,Metro Mart,EG,SME,Retail,Online Checkout,Hosted Checkout,T+1,Nadia Fouad,2021-10-16,2021-11-15
+M00170,EG704053078,Silver Institute,EG,Enterprise,Education,Online Checkout,Hosted Checkout,T+1,Nadia Fouad,2021-10-16,2021-11-23
+M00171,EG761087060,Cedar Cart,EG,Online,E-commerce,Subscriptions,Direct API,T+2,Karim Ezzat,2021-10-19,2021-12-07
+M00172,EG482640702,Golden Online,EG,Online,E-commerce,Online Checkout,Direct API,T+2,Mai Ragab,2021-10-20,2021-12-24
+M00173,SA662517521,Amber Advisory,SA,B2B,Professional Services,Payment Links,Payment Links,Weekly,Turki Al-Shammari,2021-10-21,2021-10-29
+M00174,SA507131461,Cedar Market,SA,SME,Retail,Payment Links,Payment Links,T+2,Omar Al-Anazi,2021-10-24,2021-10-26
+M00175,EG766165674,Green Institute,EG,Online,Education,Online Checkout,Direct API,T+2,Mai Ragab,2021-10-27,2022-02-23
+M00176,EG465172400,Zenith Advisory,EG,SME,Professional Services,Payment Links,Payment Links,T+1,Nadia Fouad,2021-11-03,2021-11-12
+M00177,SA892484380,Zenith Academy,SA,SME,Education,Payment Links,Payment Links,T+1,Turki Al-Shammari,2021-11-04,2021-11-12
+M00178,OM954248664,Coral Grill,OM,Online,Food & Beverage,Online Checkout,E-commerce Plugin,T+2,Salim Al-Harthy,2021-11-09,2021-11-17
+M00179,EG352362522,Urban Care,EG,SME,Healthcare,Payment Links,Payment Links,T+1,Nadia Fouad,2021-11-11,2021-11-20
+M00180,SA485114821,Golden Cloud,SA,Online,Digital Services,Online Checkout,Direct API,T+2,Reem Al-Ghamdi,2021-11-12,2022-03-02
+M00181,AE878919871,Royal Basket,AE,Online,E-commerce,Online Checkout,Hosted Checkout,T+2,Yousef Al-Marri,2021-11-14,2021-12-18
+M00182,AE301462734,Oasis Kitchen,AE,SME,Food & Beverage,POS Acceptance,POS Terminal,T+1,Layla Haddad,2021-11-16,2021-12-03
+M00183,SA391765371,Crescent Schools,SA,Online,,Online Checkout,E-commerce Plugin,T+2,Reem Al-Ghamdi,2021-11-23,
+M00184,EG624580946,Sand Digital,EG,Online,Digital Services,Online Checkout,Hosted Checkout,T+2,Mai Ragab,2021-11-23,2021-12-03
+M00185,EG283786715,Green Market,EG,SME,Retail,POS Acceptance,POS Terminal,T+2,Hany Soliman,2021-11-23,2021-12-21
+M00186,AE563552817,Urban Market,AE,SME,Retail,Payment Links,Payment Links,T+2,Yousef Al-Marri,2021-11-24,2021-11-28
+M00187,EG875318556,Urban Stores,EG,SME,Retail,Online Checkout,Hosted Checkout,T+1,Hany Soliman,2021-11-24,2022-01-02
+M00188,SA749593761,Oasis Outlet,SA,SME,Retail,Payment Links,Payment Links,Instant,Omar Al-Anazi,2021-11-25,2021-11-27
+M00189,SA534917472,Bright Bakery,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Omar Al-Anazi,2021-11-28,2021-12-30
+M00190,SA416884588,Coral Cart,SA,Online,E-commerce,Online Checkout,Direct API,T+2,Reem Al-Ghamdi,2021-11-28,2022-01-12
+M00191,SA954952952,Bright Streaming,SA,Online,Digital Services,Online Checkout,E-commerce Plugin,T+2,Turki Al-Shammari,2021-12-03,2021-12-24
+M00192,EG799440003,Coral Traders,EG,B2B,Distribution & Wholesale,Payment Links,Payment Links,Weekly,Nadia Fouad,2021-12-03,2021-12-08
+M00193,SA683492515,Bright Outlet,SA,SME,Retail,Payment Links,Payment Links,Instant,Turki Al-Shammari,2021-12-10,
+M00194,EG231422873,Metro EdTech,EG,Online,Education,Subscriptions,Direct API,T+1,Karim Ezzat,2021-12-13,2022-02-16
+M00195,SA845331728,Horizon Hotels,SA,Online,Travel & Hospitality,Online Checkout,Hosted Checkout,T+2,Reem Al-Ghamdi,2021-12-16,2022-01-15
+M00196,EG284431976,Crescent Boutique,EG,SME,Retail,POS Acceptance,POS Terminal,Instant,Mai Ragab,2021-12-17,2022-01-11
+M00197,EG823617801,Swift Bakery,EG,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Nadia Fouad,2021-12-17,2022-01-09
+M00198,AE932795909,Oasis Pharmacy,AE,Enterprise,Healthcare,Online Checkout,E-commerce Plugin,T+1,Layla Haddad,2021-12-23,2021-12-28
+M00199,EG816834588,Green Clinics,EG,SME,Healthcare,Payment Links,Payment Links,T+2,Karim Ezzat,2021-12-27,2021-12-31
+M00200,AE520556972,Palm Telecom,AE,B2B,Telecom & Utilities,Payment Links,Payment Links,Weekly,Layla Haddad,2021-12-28,2022-01-02
+M00201,AE333371080,Zenith Consulting,AE,SME,Professional Services,Payment Links,Payment Links,T+2,Layla Haddad,2021-12-30,2022-01-05
+M00202,SA205739809,Amber Cafe,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,T+1,Turki Al-Shammari,2022-01-11,2022-01-30
+M00203,SA545085858,Falcon Mart,SA,SME,Retail,Payment Links,Payment Links,T+2,Turki Al-Shammari,2022-01-17,2022-01-27
+M00204,SA196173797,Swift Stores,SA,SME,Retail,POS Acceptance,POS Terminal,Instant,Turki Al-Shammari,2022-01-18,2022-02-20
+M00205,EG275709942,Cedar Deals,EG,Enterprise,E-commerce,POS Acceptance,POS Terminal,T+1,Mai Ragab,2022-01-18,2022-02-21
+M00206,EG911025364,Nova Bakery,EG,SME,Food & Beverage,Online Checkout,Hosted Checkout,T+1,Nadia Fouad,2022-01-18,2022-02-08
+M00207,EG165126097,Palm Basket,EG,Online,E-commerce,Subscriptions,Direct API,T+2,Mai Ragab,2022-01-19,2022-04-14
+M00208,AE678947423,Golden Shop,AE,Online,E-commerce,Online Checkout,Hosted Checkout,Instant,Layla Haddad,2022-01-26,2022-03-07
+M00209,EG744158614,Zenith Basket,EG,Online,E-commerce,Subscriptions,Direct API,T+2,Mai Ragab,2022-01-27,2022-02-28
+M00210,EG207904094,Oasis Wholesale,EG,B2B,Distribution & Wholesale,B2B Collections,Payment Links,Weekly,Karim Ezzat,2022-01-31,2022-02-08
+M00211,SA794064500,Cedar Online,SA,Online,E-commerce,Online Checkout,Direct API,T+2,Turki Al-Shammari,2022-02-03,
+M00212,AE346681166,Urban Shop,AE,Online,E-commerce,Online Checkout,E-commerce Plugin,T+2,Layla Haddad,2022-02-04,2022-02-19
+M00213,EG622517179,Golden Bakery,EG,SME,Food & Beverage,Online Checkout,E-commerce Plugin,T+1,Hany Soliman,2022-02-06,2022-02-18
+M00214,EG728979434,Crescent Services,EG,SME,Professional Services,POS Acceptance,POS Terminal,Instant,Hany Soliman,2022-02-06,2022-03-13
+M00215,EG105628327,Green Online,EG,Online,E-commerce,Online Checkout,Hosted Checkout,T+1,Karim Ezzat,2022-02-06,2022-02-18
+M00216,OM713381935,Horizon Schools,OM,Online,Education,Online Checkout,Hosted Checkout,T+1,Salim Al-Harthy,2022-02-08,2022-03-14
+M00217,AE339334302,Silver Supply,AE,B2B,Distribution & Wholesale,B2B Collections,Direct API,Weekly,Yousef Al-Marri,2022-02-10,2022-03-30
+M00218,EG935471821,Silver Kitchen,EG,SME,Food & Beverage,Payment Links,Payment Links,T+2,Nadia Fouad,2022-02-10,2022-02-12
+M00219,EG768201701,Bright Roastery,EG,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Mai Ragab,2022-02-10,
+M00220,EG998632198,Prime Cart,EG,Online,E-commerce,Online Checkout,Hosted Checkout,T+1,Hany Soliman,2022-02-14,2022-03-21
+M00221,EG286990334,Amber Wholesale,EG,B2B,Distribution & Wholesale,Payment Links,Payment Links,Weekly,Hany Soliman,2022-02-19,2022-02-21
+M00222,EG839115780,Golden Institute,EG,SME,Education,POS Acceptance,POS Terminal,Instant,Karim Ezzat,2022-02-20,2022-03-04
+M00223,AE782539735,Urban Cloud,AE,Online,Digital Services,Online Checkout,Hosted Checkout,T+2,Layla Haddad,2022-02-21,2022-03-30
+M00224,OM362279591,Nova Tours,OM,Online,Travel & Hospitality,Online Checkout,Direct API,T+2,Salim Al-Harthy,2022-02-23,2022-04-21
+M00225,AE605101733,Urban Pharmacy,AE,SME,Healthcare,Payment Links,Payment Links,T+1,Yousef Al-Marri,2022-02-24,2022-03-03
+M00226,EG987489356,Sand Cloud,EG,Online,Digital Services,Online Checkout,Hosted Checkout,Instant,Karim Ezzat,2022-02-26,2022-03-08
+M00227,EG933744774,Oasis Freight,EG,B2B,Logistics,B2B Collections,Direct API,T+1,Nadia Fouad,2022-02-28,2022-06-22
+M00228,AE123781768,Sand Bakery,AE,Enterprise,Food & Beverage,POS Acceptance,POS Terminal,T+1,Layla Haddad,2022-03-03,2022-04-02
+M00229,OM509470813,Blue EdTech,OM,SME,Education,Online Checkout,Direct API,Instant,Salim Al-Harthy,2022-03-07,
+M00230,AE174460555,Blue Online,AE,Online,E-commerce,Subscriptions,Direct API,Instant,Layla Haddad,2022-03-08,2022-04-14
+M00231,EG613159214,Pearl Telecom,EG,B2B,Telecom & Utilities,B2B Collections,Payment Links,T+1,Hany Soliman,2022-03-09,2022-03-13
+M00232,OM765991018,Metro Medical,OM,SME,Healthcare,Online Checkout,Direct API,T+2,Salim Al-Harthy,2022-03-10,2022-05-26
+M00233,EG235600888,Bright EdTech,EG,Online,Education,Online Checkout,E-commerce Plugin,T+2,Karim Ezzat,2022-03-12,2022-03-22
+M00234,EG485824653,Amber Supply,EG,B2B,Distribution & Wholesale,B2B Collections,Payment Links,Weekly,Nadia Fouad,2022-03-15,2022-03-18
+M00235,AE707625102,Golden Services,AE,SME,,POS Acceptance,POS Terminal,T+2,Yousef Al-Marri,2022-03-16,2022-03-31
+M00236,EG656793347,Zenith Supply,EG,B2B,Distribution & Wholesale,Payment Links,Payment Links,Weekly,Mai Ragab,2022-03-16,2022-03-20
+M00237,SA796857151,Green Journeys,SA,Online,Travel & Hospitality,Online Checkout,Direct API,T+2,Turki Al-Shammari,2022-03-19,2022-06-21
+M00238,AE162515553,Royal Travel,AE,Online,Travel & Hospitality,Online Checkout,Hosted Checkout,T+1,Layla Haddad,2022-03-21,2022-04-07
+M00239,OM667112904,Crescent Roastery,OM,SME,Food & Beverage,POS Acceptance,POS Terminal,T+1,Salim Al-Harthy,2022-03-22,2022-04-19
+M00240,SA508515348,Bright Basket,SA,Online,E-commerce,Online Checkout,Direct API,T+2,Reem Al-Ghamdi,2022-03-26,2022-04-30
+M00241,EG799575469,Horizon Apps,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Nadia Fouad,2022-03-30,2022-06-19
+M00242,SA190250693,Zenith Institute,SA,SME,Education,POS Acceptance,POS Terminal,T+2,Reem Al-Ghamdi,2022-04-06,2022-05-05
+M00243,SA575207038,Falcon Cargo,SA,B2B,Logistics,B2B Collections,Payment Links,Weekly,Reem Al-Ghamdi,2022-04-08,2022-04-17
+M00244,EG508110442,Palm Distribution,EG,B2B,Distribution & Wholesale,B2B Collections,Payment Links,T+1,Nadia Fouad,2022-04-13,2022-04-17
+M00245,EG259754316,Coral Games,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Mai Ragab,2022-04-17,2022-07-06
+M00246,EG550259154,Royal Cloud,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Mai Ragab,2022-04-19,2022-06-20
+M00247,SA352518639,Horizon Legal,SA,B2B,Professional Services,B2B Collections,Direct API,T+1,Turki Al-Shammari,2022-04-20,2022-07-07
+M00248,SA716580826,Royal Roastery,SA,SME,Food & Beverage,POS Acceptance,POS Terminal,Instant,Omar Al-Anazi,2022-04-23,2022-05-12
+M00249,EG246247584,Urban Services,EG,B2B,Professional Services,B2B Collections,Payment Links,Weekly,Karim Ezzat,2022-04-29,2022-05-02
+M00250,AE889475271,Sand Kitchen,AE,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Layla Haddad,2022-05-01,2022-05-25
+M00251,EG584658548,Horizon Bakery,EG,SME,Food & Beverage,Payment Links,Payment Links,T+1,Karim Ezzat,2022-05-01,2022-05-05
+M00252,SA577673991,Crescent Labs,SA,SME,Healthcare,Online Checkout,E-commerce Plugin,T+1,Omar Al-Anazi,2022-05-06,2022-05-11
+M00253,SA251636450,Nova Kitchen,SA,SME,Food & Beverage,Online Checkout,Hosted Checkout,T+2,Omar Al-Anazi,2022-05-06,2022-06-07
+M00254,EG237932689,Green Kitchen,EG,SME,Food & Beverage,Online Checkout,Direct API,T+1,Hany Soliman,2022-05-16,2022-07-20
+M00255,EG310107271,Palm Partners,EG,SME,Professional Services,POS Acceptance,POS Terminal,T+2,Nadia Fouad,2022-05-17,2022-06-07
+M00256,EG309629254,Falcon Freight,EG,B2B,Logistics,B2B Collections,Payment Links,Weekly,Mai Ragab,2022-05-17,
+M00257,AE584770998,Zenith Boutique,AE,SME,Retail,Payment Links,Payment Links,T+1,Yousef Al-Marri,2022-05-21,2022-05-28
+M00258,EG614021979,Coral Power,EG,B2B,Telecom & Utilities,Payment Links,Payment Links,Weekly,Nadia Fouad,2022-05-22,2022-05-25
+M00259,EG509980512,Swift Kitchen,EG,Online,Food & Beverage,Online Checkout,E-commerce Plugin,T+1,Nadia Fouad,2022-05-22,2022-06-02
+M00260,AE937738745,Blue Market,AE,Enterprise,Retail,Payment Links,Payment Links,T+1,Layla Haddad,2022-05-23,2022-05-28
+M00261,AE205330599,Silver Boutique,AE,SME,Retail,Online Checkout,Direct API,T+1,Yousef Al-Marri,2022-05-23,2022-09-08
+M00262,AE688405384,Horizon Cart,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Yousef Al-Marri,2022-05-24,
+M00263,EG400875498,Prime Advisory,EG,SME,Professional Services,Payment Links,Payment Links,T+2,Mai Ragab,2022-05-24,2022-06-02
+M00264,AE360087333,Blue Digital,AE,Online,Digital Services,Subscriptions,Direct API,T+1,Layla Haddad,2022-05-26,2022-06-30
+M00265,SA582972742,Green Medical,SA,SME,Healthcare,Payment Links,Payment Links,Instant,Reem Al-Ghamdi,2022-05-26,2022-05-31
+M00266,SA597581402,Green Cafe,SA,SME,Food & Beverage,Online Checkout,Direct API,T+2,Turki Al-Shammari,2022-05-27,
+M00267,OM958516072,Crescent Trading,OM,B2B,Distribution & Wholesale,Payment Links,Payment Links,T+1,Salim Al-Harthy,2022-05-29,2022-06-01
+M00268,EG304469248,Falcon Institute,EG,SME,Education,Payment Links,Payment Links,T+2,Karim Ezzat,2022-06-01,2022-06-10
+M00269,EG249264164,Royal Pharmacy,EG,SME,Healthcare,POS Acceptance,POS Terminal,T+2,Nadia Fouad,2022-06-09,2022-06-23
+M00270,AE521533668,Nova Online,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Yousef Al-Marri,2022-06-11,2022-07-12
+M00271,EG511893937,Cedar Medical,EG,SME,Healthcare,Online Checkout,Direct API,T+2,Hany Soliman,2022-06-13,2022-10-08
+M00272,AE934873526,Nova Partners,AE,SME,Professional Services,POS Acceptance,POS Terminal,T+2,Layla Haddad,2022-06-14,2022-07-17
+M00273,SA955742346,Sand Schools,SA,Online,Education,Online Checkout,Direct API,T+2,Reem Al-Ghamdi,2022-06-18,2022-07-20
+M00274,SA110751010,Falcon Games,SA,Online,Digital Services,Subscriptions,Direct API,T+2,Omar Al-Anazi,2022-06-19,2022-08-05
+M00275,SA414248851,Pearl Care,SA,Enterprise,Healthcare,POS Acceptance,POS Terminal,T+1,Omar Al-Anazi,2022-06-21,2022-07-20
+M00276,OM909997571,Horizon EdTech,OM,SME,Education,Payment Links,Payment Links,Instant,Salim Al-Harthy,2022-06-23,2022-06-27
+M00277,EG724883181,Horizon Cloud,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Hany Soliman,2022-06-24,2022-09-23
+M00278,SA434781636,Nova Mart,SA,SME,Retail,POS Acceptance,POS Terminal,Instant,Turki Al-Shammari,2022-06-26,2022-07-10
+M00279,EG435300882,Green Grill,EG,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Mai Ragab,2022-06-27,2022-07-07
+M00280,EG728794730,Falcon Telecom,EG,B2B,Telecom & Utilities,B2B Collections,Payment Links,T+1,Karim Ezzat,2022-06-28,2022-06-30
+M00281,SA847687864,Royal Labs,SA,SME,Healthcare,POS Acceptance,POS Terminal,T+2,Turki Al-Shammari,2022-06-29,2022-07-12
+M00282,EG248756723,Metro Cafe,EG,SME,Food & Beverage,Payment Links,Payment Links,T+2,Nadia Fouad,2022-07-01,2022-07-11
+M00283,EG488319036,Golden Streaming,EG,Online,Digital Services,Online Checkout,Direct API,T+2,Karim Ezzat,2022-07-01,2022-09-20
+M00284,EG874835199,Golden Kitchen,EG,SME,Food & Beverage,POS Acceptance,POS Terminal,T+2,Karim Ezzat,2022-07-03,2022-08-07
+M00285,SA860742247,Zenith Medical,SA,Enterprise,Healthcare,Online Checkout,E-commerce Plugin,Weekly,Turki Al-Shammari,2022-07-04,2022-07-11
+M00286,EG758836714,Urban Clinics,EG,SME,Healthcare,POS Acceptance,POS Terminal,T+2,Hany Soliman,2022-07-08,2022-08-09
+M00287,OM781490538,Horizon Academy,OM,Online,Education,Online Checkout,Direct API,T+2,Salim Al-Harthy,2022-07-10,2022-08-25
+M00288,SA586124263,Pearl Kitchen,SA,SME,Food & Beverage,Online Checkout,Hosted Checkout,T+2,Turki Al-Shammari,2022-07-12,2022-08-13
+M00289,EG730609269,Palm Consulting,EG,SME,Professional Services,Online Checkout,Direct API,T+2,Nadia Fouad,2022-07-14,2022-09-10
+M00290,AE738504243,Prime Online,AE,Online,E-commerce,Online Checkout,E-commerce Plugin,T+1,Layla Haddad,2022-07-14,2022-07-24
+M00291,OM214883127,Blue Bakery,OM,SME,Food & Beverage,POS Acceptance,POS Terminal,T+1,Salim Al-Harthy,2022-07-18,2022-08-13
+M00292,EG345706176,Oasis Partners,EG,SME,Professional Services,POS Acceptance,POS Terminal,Instant,Karim Ezzat,2022-07-19,2022-08-05
+M00293,AE436682771,Metro Care,AE,SME,Healthcare,POS Acceptance,POS Terminal,T+1,Yousef Al-Marri,2022-07-22,2022-08-16
+M00294,AE784175593,Horizon Basket,AE,Online,E-commerce,Online Checkout,Direct API,T+2,Yousef Al-Marri,2022-07-23,
+M00295,EG342155019,Swift Trading,EG,B2B,Distribution & Wholesale,B2B Collections,Payment Links,T+1,Nadia Fouad,2022-07-24,2022-07-26
+M00296,SA363626228,Metro Trading,SA,B2B,Distribution & Wholesale,B2B Collections,Payment Links,Weekly,Reem Al-Ghamdi,2022-07-24,2022-08-01
+M00297,EG774885021,Urban Learning,EG,Online,Education,Subscriptions,Direct API,T+1,Nadia Fouad,2022-07-24,2022-09-10
+M00298,AE741353303,Silver Apps,AE,Online,Digital Services,Online Checkout,Direct API,T+2,Yousef Al-Marri,2022-07-24,2022-08-30
+M00299,SA337097778,Pearl Services,SA,B2B,Professional Services,Payment Links,Payment Links,T+1,Omar Al-Anazi,2022-07-25,2022-08-01
+M00300,EG217500923,Green Roastery,EG,Online,Food & Beverage,Online Checkout,Direct API,T+2,Nadia Fouad,2022-07-25,2022-10-22

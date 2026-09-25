@@ -1,0 +1,5 @@
+status,counts_in_gmv,counts_in_success_rate,sort_order
+Success,1,1,1
+Failed,0,1,2
+Refunded,0,0,3
+Voided,0,0,4

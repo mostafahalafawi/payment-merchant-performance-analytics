@@ -1,0 +1,114 @@
+# =============================================================================
+# Payment & Merchant Performance Analytics - pipeline configuration
+# -----------------------------------------------------------------------------
+# All business rules, pricing assumptions and analysis thresholds live here.
+# All data produced from this configuration is SYNTHETIC.
+# =============================================================================
+
+project:
+  company_name: "Falak Payments (fictional)"
+  seed: 20240701
+  start_date: "2024-07-01"
+  end_date: "2026-06-30"
+  fiscal_year_start_month: 7          # FY runs Jul-Jun; FY2026 = Jul-2025..Jun-2026
+  reporting_currency: USD
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  sample: data/sample
+  database: data/processed/payments_analytics.db
+  reports: reports
+  images: images
+  insights: insights
+  sql: sql
+
+countries:
+  EG: {name: Egypt,        currency: EGP, region: North Africa}
+  SA: {name: Saudi Arabia, currency: SAR, region: GCC}
+  AE: {name: UAE,          currency: AED, region: GCC}
+  OM: {name: Oman,         currency: OMR, region: GCC}
+
+fx:                                   # local currency units per USD (illustrative)
+  pegged: {SAR: 3.75, AED: 3.6725, OMR: 0.3845, USD: 1.0}
+  egp_start: 48.30
+  egp_end: 51.60
+  egp_noise_pct: 0.006
+
+segments: [Enterprise, SME, Online, B2B]
+
+# -----------------------------------------------------------------------------
+# Payment methods: default merchant pricing (MDR) and scheme/interchange cost.
+# fixed amounts are USD per transaction.
+# -----------------------------------------------------------------------------
+payment_methods:
+  CARD:   {name: "Credit / Debit Card",        mdr_pct: 0.0225, fixed_fee_usd: 0.10, cost_pct: 0.0135, cost_fixed_usd: 0.05}
+  LDEBIT: {name: "Local Debit Scheme",         mdr_pct: 0.0110, fixed_fee_usd: 0.05, cost_pct: 0.0045, cost_fixed_usd: 0.03}
+  WALLET: {name: "Mobile Wallet",              mdr_pct: 0.0180, fixed_fee_usd: 0.05, cost_pct: 0.0090, cost_fixed_usd: 0.03}
+  TOKEN:  {name: "Tokenized Mobile Pay",       mdr_pct: 0.0230, fixed_fee_usd: 0.10, cost_pct: 0.0140, cost_fixed_usd: 0.05}
+  BNPL:   {name: "Buy Now Pay Later",          mdr_pct: 0.0450, fixed_fee_usd: 0.00, cost_pct: 0.0320, cost_fixed_usd: 0.00}
+  BANKTR: {name: "Instant Bank Transfer",      mdr_pct: 0.0030, fixed_fee_usd: 0.60, cost_pct: 0.0005, cost_fixed_usd: 0.35}
+
+# Segment price multipliers (negotiated pricing): Enterprise and B2B pay less.
+segment_price_multiplier: {Enterprise: 0.72, SME: 1.05, Online: 1.00, B2B: 0.70}
+
+# Gateways: per-attempt authorisation fee (charged on success, failure and void)
+gateways:
+  GW-ATLAS:  {name: "Atlas Global Acquiring", countries: [EG, SA, AE, OM], auth_fee_usd: 0.020, cost_multiplier: 1.08}
+  GW-NIMBUS: {name: "Nimbus GCC Gateway",     countries: [SA, AE, OM],     auth_fee_usd: 0.015, cost_multiplier: 1.00}
+  GW-ORION:  {name: "Orion Payments",         countries: [SA, AE],         auth_fee_usd: 0.012, cost_multiplier: 0.95}
+  GW-NILE:   {name: "Nile Local Switch",      countries: [EG],             auth_fee_usd: 0.008, cost_multiplier: 0.90}
+
+refund_fee_usd: 0.15                  # scheme cost per refund; MDR is NOT returned on refunds
+
+# -----------------------------------------------------------------------------
+# Status normalisation (source systems use different labels)
+# -----------------------------------------------------------------------------
+status_map:
+  Success:  [SUCCESS, Success, CAPTURED, Captured, APPROVED, Approved, SETTLED]
+  Failed:   [FAILED, Failed, DECLINED, Declined, ERROR]
+  Refunded: [REFUNDED, Refunded, REFUND]
+  Voided:   [VOIDED, Voided, VOID, REVERSED]
+
+# -----------------------------------------------------------------------------
+# Lifecycle definitions
+# -----------------------------------------------------------------------------
+lifecycle:
+  activation_window_days: 30          # activated = first successful txn within N days of go-live
+  dormant_after_days: 30              # no successful txn for N days -> dormant
+  churned_after_days: 90              # no successful txn for N days -> churned
+  decline_threshold_pct: -0.25        # last-3M GMV vs prior-3M
+  growth_threshold_pct: 0.20
+  min_gmv_for_trend_usd: 3000         # ignore trend on tiny merchants
+
+# -----------------------------------------------------------------------------
+# Data-quality defect injection (generator only)
+# -----------------------------------------------------------------------------
+defects:
+  duplicate_mid_merchants: 6          # merchants re-onboarded under an existing MID
+  missing_vertical_rate: 0.010
+  missing_country_rate: 0.004
+  live_before_signup: 5
+  duplicate_row_rate: 0.004
+  bad_date_rate: 0.0015
+  negative_amount_rate: 0.0008
+  unknown_status_rate: 0.0008
+  zero_count_rate: 0.0006
+  revenue_gt_gmv_rate: 0.0004
+  gp_inconsistent_rate: 0.0010
+  txn_before_live_merchants: 4
+  status_label_variant_rate: 0.08
+  underbilled_merchants: 14           # billing engine applies a wrong (lower) MDR
+
+analysis:
+  anomaly_mad_threshold: 4.0          # robust z on daily gateway success rate (vs trailing 28-day baseline)
+  anomaly_min_attempts: 200
+  baseline_window_days: 28
+  retry_recovery_rate: 0.50           # share of failed payments customers successfully retry (lost-GMV assumption)
+  degradation_slope_pp_per_month: -0.50   # 6-month slope of monthly success rate that flags slow degradation
+  low_success_rate: 0.85              # merchant success rate that triggers an alert
+  top_n_merchants: 15
+  concentration_top_pct: 0.10
+
+reporting:
+  sample_rows: 5000
